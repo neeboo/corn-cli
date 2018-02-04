@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "commander": "^2.13.0",
+    "git-clone": "^0.1.0",
+    "shelljs": "^0.8.1",
+    "tracer": "^0.8.11"
+  },
+  "name": "corn-cli",
+  "version": "1.0.0",
+  "description": "easy template for dva+express+mongodb+graphql",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neeboo/corn-cli.git"
+  },
+  "keywords": ["dva", "express", "mongodb", "graphql"],
+  "author": "ghostcorn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neeboo/corn-cli/issues"
+  },
+  "homepage": "https://github.com/neeboo/corn-cli#readme"
+}
